@@ -1,5 +1,15 @@
+$navbarBackground:                #4D2177 ;
+$navbarBackgroundHighlight:       darken($navbarBackground, 10) ;
+$navbarText:                      #ffffff ;
+$navbarLinkColor:                 #ffffff ;
+$navbarLinkColorHover:                 #fee ;
+$navbarSearchPlaceholderColor:    #EEC844 ;
+
 @import "bootstrap";
 @import "bootstrap-responsive";
+
+
+
 
 /* mixins, variables, etc. */
 
